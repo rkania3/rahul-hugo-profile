@@ -125,7 +125,12 @@ params:
           enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "TODO"
+        content: |
+          I am currently working as a backend engineer on the enterprise partners team.
+
+          - I create APIs to integrate enterprise retailers with Katapult's Lease to Own services.
+          - I manage the integration with our internal platform and external CRM tool.
+          - I extend our backend platform to support functionality on our mobile application.
 
       - job: "Associate Software Engineer"
         company: "Capital One"
@@ -138,10 +143,11 @@ params:
           enable: false
           content: 
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          I worked at Capital One as a Data Engineer and as a Backend Engineer in the Auto Finance department.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - As a Data Engineer, I migrated and improved on the backend applications that delivered critical reports to leadership regarding our business.
+          - As a Backend Engineer, I developed the backend that onboarded our developers onto our CICD platform.
+          - I managed the resources of our developers on AWS and helped cut costs by allocating the appropriate resources and managing their uptime.
 
       - job: "Intern Software Engineer"
         company: "State Farm"
@@ -153,10 +159,10 @@ params:
           enable: false
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          I interned at State farm for two semesters working in the Research and Development office on Android Mobile Apps.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - I worked on an app that could detect if the car was in an accident based on data gathered by the sensors.
+          - I created a server monitoring tool that would send push notifications to the responsible devs based on polling XML reports.
 
   # Education
   education:
